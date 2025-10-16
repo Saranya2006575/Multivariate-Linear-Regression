@@ -38,6 +38,7 @@ predictedCO2 = regr.predict(pd.DataFrame([[3300, 1300]], columns=['Weight', 'Vol
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
+<img width="693" height="70" alt="Screenshot 2025-10-16 082755" src="https://github.com/user-attachments/assets/53f37598-6506-4a9a-a520-db5896745b59" />
 
 <br>
 
